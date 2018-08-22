@@ -32,7 +32,7 @@ article::before {
 }
 article::after {
   position: relative;
-  top: 40px;
+  top: 120px;
   left: 300px;
   color: #13C4A3;
   font-size: 44px;
