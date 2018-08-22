@@ -19,7 +19,7 @@ a {text-decoration: none; color: #333; border-bottom: 3px solid #13C4A3;}
 a:hover {color: #13C4A3}
 p {font-weight: 300; font-size: 20px;}
 
-.name {font-family: 'Comfortaa', cursive; font-size: 45px; text-transform: uppercase; font-weight: 700; padding: 12px; border: 0px solid #ffffff; color: #13C4A3; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
+.name {font-family: 'Comfortaa', cursive; font-size: 45px; font-weight: 700; padding: 12px; color: #13C4A3; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
 
 .container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
 article {padding: 60px;}
