@@ -1,4 +1,4 @@
-body {font-family: 'Comfortaa', cursive; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #808285; overflow: auto;
+body {font-family: 'Comfortaa', cursive; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #595b5d; overflow: auto;
 background: #ffffff; /* Old browsers */
 background: -moz-linear-gradient(-45deg,  #ffffff 0%, #ffffff 50%, #bde4e1 50%, #bde4e1 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ffffff), color-stop(50%,#ffffff), color-stop(50%,#bde4e1), color-stop(100%,#bde4e1)); /* Chrome,Safari4+ */
@@ -15,7 +15,7 @@ body, html {height: 100%;}
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
-a {text-decoration: none; color: #808285; border-bottom: 3px solid #13C4A3;}
+a {text-decoration: none; color: #595b5d; border-bottom: 3px solid #13C4A3;}
 a:hover {color: #13C4A3}
 p {font-weight: 300; font-size: 20px;}
 
@@ -41,7 +41,7 @@ hr {border-bottom: 3px solid #13C4A3
 ;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
-.meta a:hover {color: #808285;}
+.meta a:hover {color: #595b5d;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
